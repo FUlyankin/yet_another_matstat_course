@@ -2,6 +2,9 @@
 
 - [Видео курса](https://www.youtube.com/playlist?list=PLNKXA-74YGLgaDmUwMbeKxD2MHvWOsPcz)
 - [Видосы Бориса Демешева про market research](https://www.youtube.com/channel/UC8PQpPltnaMvlr6g1wkkTqw/videos)
+- [Мои конспекты лекций по матстату](https://github.com/FUlyankin/matstat_lec)
+- [Материалы курса для курсеры,](https://github.com/FUlyankin/matstat_coursera) там много полезных тетрадок на питоне :) Видосы курса ищут себе пока что новый дом... 
+
 
 Пока мы составили план на первые пять пар, дальше посмотрим: 
 
